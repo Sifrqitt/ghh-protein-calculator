@@ -39,3 +39,6 @@ input, select {
   font-size: 18px;
   font-weight: bold;
 }
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
